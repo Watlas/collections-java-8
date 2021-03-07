@@ -1,0 +1,8 @@
+HashSet - quando nao é nescessario manter ordenação    //mais perfomatico
+
+LinkedHashSet quando pe nescessao manter a ordem de inserção dos elementos  //ordena na ordem que foi colocado mais n é possivel alterar
+
+TreeSet Quando é nescessario alterar a ordem atraves do uso de comparators  //
+
+
+ESSAS INTERFACES NAO ACEITAM DADOS IGUAIS

@@ -1,0 +1,11 @@
+-Pode ter valor repetidos porem nao chaves repetidas
+
+-Pode ser Ordenado
+
+-Tem entrada de Chave e VALOR
+
+HashMap - mais usada e boa performatica
+
+treeMap -
+
+HashTable - mais antiga

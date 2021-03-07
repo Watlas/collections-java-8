@@ -1,0 +1,3 @@
+comparator - interface para definir classe com regra de negocio
+
+comparable - inferface para definir regra de ordenação
